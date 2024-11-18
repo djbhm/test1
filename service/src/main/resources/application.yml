@@ -1,0 +1,4 @@
+jwt:
+  secretKey: 45465655
+  accessTokenExpireTime: 3000
+  refreshTokenExpireTime: 86400
