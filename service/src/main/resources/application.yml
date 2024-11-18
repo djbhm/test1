@@ -2,3 +2,14 @@ jwt:
   secretKey: 45465655
   accessTokenExpireTime: 3000
   refreshTokenExpireTime: 86400
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui
+  api-docs:
+    path: /api-docs
+
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
